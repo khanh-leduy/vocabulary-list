@@ -1,0 +1,802 @@
+[
+  {
+    "japanese": "チケットを取る",
+    "furigana": "チケットを取(と)る",
+    "english": "take a ticket",
+    "ja_example": "すでに3つチケットを取っているので、今週は取れません。",
+    "furigana_example": "すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。",
+    "en_example": "I can't take a ticket this week because I have already taken 3."
+  },
+  {
+    "japanese": "すでに",
+    "furigana": "すでに",
+    "english": "adv. already",
+    "ja_example": "ー",
+    "furigana_example": "ー",
+    "en_example": "ー"
+  },
+  {
+    "japanese": "プルリクを出す",
+    "furigana": "プルリクを出(だ)す",
+    "english": "make/create a pull request",
+    "ja_example": "昨日、プルリクを出しました。",
+    "furigana_example": "昨日(きのう)、プルリクを出(だ)しました。",
+    "en_example": "I made a pull request yesterday."
+  },
+  {
+    "japanese": "開発する",
+    "furigana": "開発(かいはつ)する",
+    "english": "v. develop",
+    "ja_example": "今、Xを開発しています。",
+    "furigana_example": "今(いま)、Xを開発(かいはつ)しています。",
+    "en_example": "I'm developing X now."
+  },
+  {
+    "japanese": "修正する",
+    "furigana": "修正(しゅうせい)する",
+    "english": "v. correct, revise",
+    "ja_example": "修正は今日中に終わると思います。",
+    "furigana_example": "修正(しゅうせい)は今日中(きょうじゅう)に終(お)わると思(おも)います。",
+    "en_example": "I think I'll revise it by the end of today."
+  },
+  {
+    "japanese": "マージする",
+    "furigana": "マージする",
+    "english": "v. merge",
+    "ja_example": "XをYにマージしました。",
+    "furigana_example": "XをYにマージしました。",
+    "en_example": "I merged X with Y."
+  },
+  {
+    "japanese": "進める",
+    "furigana": "進(すす)める",
+    "english": "v. [*transitive verb 他動詞]\n1. move forward, proceed with (something)\n2. work on",
+    "ja_example": "このチケットは、Kenさんと一緒に進めています。",
+    "furigana_example": "このチケットは、Kenさんと一緒(いっしょ)に進(すす)めています。",
+    "en_example": "I'm working on this ticket with Ken."
+  },
+  {
+    "japanese": "[システムが]動く",
+    "furigana": "[システムが]動(うご)く",
+    "english": "v. work, operate",
+    "ja_example": "システムがちゃんと動いてないことがわかった。",
+    "furigana_example": "システムがちゃんと動(うご)いてないことがわかった。",
+    "en_example": "I realized that the system was not working properly."
+  },
+  {
+    "japanese": "ちゃんと",
+    "furigana": "ちゃんと ※casual",
+    "english": "adv. properly",
+    "ja_example": "ー",
+    "furigana_example": "ー",
+    "en_example": "ー"
+  },
+  {
+    "japanese": "間に合う",
+    "furigana": "間(ま)に合(あ)う",
+    "english": "be in time, make a deadline",
+    "ja_example": "来週のリリースには間に合いそうです。",
+    "furigana_example": "来週(らいしゅう)のリリースには間(ま)に合(あ)いそうです。",
+    "en_example": "It seems that we'll make the release next week."
+  },
+  {
+    "japanese": "状態",
+    "furigana": "状態(じょうたい)",
+    "english": "n. status",
+    "ja_example": "QAしてもらえる状態のものがありますか。",
+    "furigana_example": "QAしてもらえる状態(じょうたい)のものがありますか。",
+    "en_example": "Is there anything ready for QA?"
+  },
+  {
+    "japanese": "課題",
+    "furigana": "課題(かだい)",
+    "english": "n. issue",
+    "ja_example": "課題が見つかった。",
+    "furigana_example": "課題(かだい)が見(み)つかった。",
+    "en_example": "We found some issues."
+  },
+  {
+    "japanese": "要件",
+    "furigana": "要件(ようけん)",
+    "english": "n. requirements",
+    "ja_example": "要件は明日、テックリード(TL)に共有します。",
+    "furigana_example": "要件(ようけん)は明日(あした)、TLに共有(きょうゆう)します。",
+    "en_example": "I'll share requirements with TLs tomorrow."
+  },
+  {
+    "japanese": "仕様",
+    "furigana": "仕様(しよう)",
+    "english": "n. specification document",
+    "ja_example": "まだ仕様が決まってない。",
+    "furigana_example": "まだ仕様(しよう)が決(き)まってない。",
+    "en_example": "The specs haven't been decided yet."
+  },
+  {
+    "japanese": "固まる (*自動詞)",
+    "furigana": "固(かた)まる (*intransitive verb)",
+    "english": "v. take shape (*intransitive verb)",
+    "ja_example": "まだ仕様が固まっていません。",
+    "furigana_example": "まだ仕様(しよう)が固(かた)まっていません。",
+    "en_example": "The specs haven't taken shape yet."
+  },
+  {
+    "japanese": "支障",
+    "furigana": "支障(ししょう)",
+    "english": "n. obstacle, hitch",
+    "ja_example": "それによって(プロジェクトに)支障が出ています。",
+    "furigana_example": "それによって(プロジェクトに)支障(ししょう)が出(で)ています。",
+    "en_example": "It interferes with it (our project)."
+  },
+  {
+    "japanese": "影響",
+    "furigana": "影響(えいきょう)",
+    "english": "n. effect",
+    "ja_example": "これは、お客様に影響があるインシデントじゃないです。",
+    "furigana_example": "これは、お客様(きゃくさま)に影響(えいきょう)があるインシデントじゃないです。",
+    "en_example": "This is not an incident that has an effect on customers."
+  },
+  {
+    "japanese": "原因",
+    "furigana": "原因(げんいん)",
+    "english": "n. cause",
+    "ja_example": "これから原因を調べます。",
+    "furigana_example": "これから原因(げんいん)を調(しら)べます。",
+    "en_example": "I will look into the causes now."
+  },
+  {
+    "japanese": "相談する",
+    "furigana": "相談(そうだん)する",
+    "english": "v. consult",
+    "ja_example": "マネージャーに相談する。",
+    "furigana_example": "マネージャーに相談(そうだん)する。",
+    "en_example": "I'll consult with my manager."
+  },
+  {
+    "japanese": "困る",
+    "furigana": "困(こま)る",
+    "english": "v. be in trouble",
+    "ja_example": "何か困ってることがありますか。",
+    "furigana_example": "何(なに)か困(こま)ってることがありますか。",
+    "en_example": "Do you have any difficulties?"
+  },
+  {
+    "japanese": "[人/チームと]連携する",
+    "furigana": "[人(ひと)/チームと]連携(れんけい)する",
+    "english": "v. work together, align with",
+    "ja_example": "これはteam Bと連携してやっていきます。",
+    "furigana_example": "これはteam Bと連携(れんけい)してやっていきます。",
+    "en_example": "We are aligned with team B to do this (task)."
+  },
+  {
+    "japanese": "sync(シンク)する",
+    "furigana": "sync(シンク)する",
+    "english": "v. sync",
+    "ja_example": "あとでテックリード(TL)とsyncしておきます。",
+    "furigana_example": "あとでTLとsyncしておきます。",
+    "en_example": "I will sync with TL later."
+  },
+  {
+    "japanese": "設定する",
+    "furigana": "設定(せってい)する",
+    "english": "v. set",
+    "ja_example": "目標を設定する。",
+    "furigana_example": "目標(もくひょう)を設定(せってい)する。",
+    "en_example": "I'll set goals / I am setting goals."
+  },
+  {
+    "japanese": "反映する",
+    "furigana": "反映(はんえい)する",
+    "english": "v. reflect",
+    "ja_example": "先週修正したけど、Jiraに反映されてません。",
+    "furigana_example": "先週(せんしゅう)修正(しゅうせい)したけど、Jiraに反映(はんえい)されてません。",
+    "en_example": "I edited it last week, but it isn't reflected on Jira (yet)."
+  },
+  {
+    "japanese": "効率",
+    "furigana": "効率(こうりつ)",
+    "english": "n. efficiency",
+    "ja_example": "そのやり方は、効率がよさそう。",
+    "furigana_example": "そのやり方(かた)は、効率(こうりつ)がよさそう。",
+    "en_example": "That method seems efficient."
+  },
+  {
+    "japanese": "締切",
+    "furigana": "締切(しめきり)",
+    "english": "n. deadline, due date",
+    "ja_example": "締切はいつですか。",
+    "furigana_example": "締切(しめきり)はいつですか。",
+    "en_example": "When is the due date?"
+  },
+  {
+    "japanese": "先に",
+    "furigana": "先(さき)に",
+    "english": "adv. ahead",
+    "ja_example": "他のミーティングがあって、ちょっと遅れるので、先に始めてください。",
+    "furigana_example": "他(ほか)のミーティングがあって、ちょっと遅(おく)れるので、先(さき)に始(はじ)めてください。",
+    "en_example": "Please go ahead with the meeting without me as I'm running late due to another meeting."
+  },
+  {
+    "japanese": "事前に",
+    "furigana": "事前(じぜん)に",
+    "english": "adv. in advance",
+    "ja_example": "話したいトピックは、事前に書いておいてください。",
+    "furigana_example": "話(はな)したいトピックは、事前(じぜん)に書いておいてください。",
+    "en_example": "Please write the topics you want to talk about in advance."
+  },
+  {
+    "japanese": "早めに",
+    "furigana": "早(はや)めに",
+    "english": "adv. early",
+    "ja_example": "これは来週リリースなので、早めにやった方がいいと思います。",
+    "furigana_example": "これは来週(らいしゅう)リリースなので、早(はや)めにやった方(ほう)がいいと思います。",
+    "en_example": "I think we should work on this earlier because we will release it next week."
+  },
+  {
+    "japanese": "一旦",
+    "furigana": "一旦(いったん)",
+    "english": "adv. temporarily, for a moment",
+    "ja_example": "一旦、このやり方で進めましょう。",
+    "furigana_example": "一旦(いったん)、このやり方で進(すす)めましょう",
+    "en_example": "Let's move forward in this way, temporarily."
+  },
+  {
+    "japanese": "環境",
+    "furigana": "環境(かんきょう)",
+    "english": "n. environment",
+    "ja_example": "すべてテスト環境に反映しました。",
+    "furigana_example": "すべてテスト環境(かんきょう)に反映(はんえい)しました。",
+    "en_example": "Everything has been reflected in the test environment."
+  },
+  {
+    "japanese": "業務",
+    "furigana": "業務(ぎょうむ)",
+    "english": "n. business, task",
+    "ja_example": "ネット環境が悪くて、業務に支障が出ています。",
+    "furigana_example": "ネット環境(かんきょう)が悪くて、業務(ぎょうむ)に支障(ししょう)が出(で)ています。",
+    "en_example": "The internet environment (ex: wifi) here is bad, which is hindering our business."
+  },
+  {
+    "japanese": "機能",
+    "furigana": "機能(きのう)",
+    "english": "n. feature, function",
+    "ja_example": "どんな機能があったら、もっとお客様のためになると思う?",
+    "furigana_example": "どんな機能(きのう)があったら、もっとお客様(きゃくさま)のためになると思う?",
+    "en_example": "What features do you think would be more beneficial for our customers?"
+  },
+  {
+    "japanese": "運用",
+    "furigana": "運用(うんよう)",
+    "english": "n. operation",
+    "ja_example": "これは、ちゃんと運用ができていません。",
+    "furigana_example": "これは、ちゃんと運用(うんよう)ができていません。",
+    "en_example": "That operation is not working properly."
+  },
+  {
+    "japanese": "観点",
+    "furigana": "観点(かんてん)",
+    "english": "n. point of view",
+    "ja_example": "QAの観点からすると、このタスクの優先順位は低いです。",
+    "furigana_example": "QAの観点(かんてん)からすると、このタスクの優先(ゆうせん)順位(じゅんい)は低(ひく)いです。",
+    "en_example": "From QA's point of view, the priority of this task is low."
+  },
+  {
+    "japanese": "重要",
+    "furigana": "重要(じゅうよう)",
+    "english": "n./ na-adj.  important",
+    "ja_example": "どれが一番重要な問題ですか。",
+    "furigana_example": "どれが一番(いちばん)重要(じゅうよう)な問題(もんだい)ですか。",
+    "en_example": "Which one is the most important issue?"
+  },
+  {
+    "japanese": "画面共有",
+    "furigana": "画面共有(がめんきょうゆう)",
+    "english": "n. screen share",
+    "ja_example": "画面共有してもらえる？",
+    "furigana_example": "画面(がめん)共有(きょうゆう)してもらえる？",
+    "en_example": "Can you share your screen?"
+  },
+  {
+    "japanese": "デプロイ",
+    "furigana": "デプロイ",
+    "english": "n. deployment",
+    "ja_example": "昨日、デプロイ、完了しました。",
+    "furigana_example": "昨日(きのう)、デプロイ、完了(かんりょう)しました。",
+    "en_example": "I completed the deployment yesterday."
+  },
+  {
+    "japanese": "動作確認",
+    "furigana": "動作(どうさ)確認(かくにん)",
+    "english": "n. checking or testing operation",
+    "ja_example": "動作確認はいつしますか。",
+    "furigana_example": "動作(どうさ)確認(かくにん)はいつしますか。",
+    "en_example": "When are you going to test the operation?"
+  },
+  {
+    "japanese": "実装する",
+    "furigana": "実装(じっそう)する",
+    "english": "v. implement",
+    "ja_example": "これは来週実装します",
+    "furigana_example": "これは来週(らいしゅう)実装(じっそう)します。",
+    "en_example": "We're going to implement this next week."
+  },
+  {
+    "japanese": "安定している",
+    "furigana": "安定(あんてい)している",
+    "english": "v. be stable",
+    "ja_example": "(それは、)バ グを直したので、今は安定しています。",
+    "furigana_example": "(それは、)バクを直(なお)したので、今は安定(あんてい)しています",
+    "en_example": "It's stable now since I've resolved the bugs."
+  },
+  {
+    "japanese": "発生する",
+    "furigana": "発生(はっせい)する",
+    "english": "v. occur",
+    "ja_example": "オンコールのときに、問題が発生しました。",
+    "furigana_example": "オンコールのときに、問題(もんだい)が発生(はっせい)しました。",
+    "en_example": "An issue occurred when I was on call."
+  },
+  {
+    "japanese": "対応する",
+    "furigana": "対応(たいおう)する",
+    "english": "v. deal with, handle",
+    "ja_example": "これは、他のチームが対応してくれるので、うちのチームはしなくていいです。",
+    "furigana_example": "これは、他(ほか)のチームが対応(たいおう)してくれるので、うちのチームはしなくていいです。",
+    "en_example": "For this issue, our team doesn't need to deal with it since another team will."
+  },
+  {
+    "japanese": "削除する",
+    "furigana": "削除(さくじょ)する",
+    "english": "v. delete",
+    "ja_example": "Jiraに同じ内容のチケットが２つあるので、こっちは削除しますね。",
+    "furigana_example": "Jiraに同(おな)じ内容(ないよう)のチケットが２つあるので、こっちは削除(さくじょ)しますね。",
+    "en_example": "I'll delete this because there are two tickets with the same content on Jira."
+  },
+  {
+    "japanese": "保存する",
+    "furigana": "保存(ほぞん)する",
+    "english": "v. save",
+    "ja_example": "すみません、修正したあと、保存し忘れました。",
+    "furigana_example": "すみません、修正(しゅうせい)したあと、保存(ほぞん)し忘(わす)れました。",
+    "en_example": "Sorry, I forgot to save it after I fixed it."
+  },
+  {
+    "japanese": "検討する",
+    "furigana": "検討(けんとう)する",
+    "english": "v. consider, think about",
+    "ja_example": "ロールバックのやり方は今検討中です。",
+    "furigana_example": "ロールバックのやり方(かた)は今(いま)、検討中(けんとうちゅう)です。",
+    "en_example": "We're now thinking about how to roll it back."
+  },
+  {
+    "japanese": "関係する",
+    "furigana": "関係(かんけい)する",
+    "english": "v. be related to",
+    "ja_example": "このチケットに関係してる人って、誰だっけ？",
+    "furigana_example": "このチケットに関係(かんけい)してる人(ひと)って、誰(だれ)だっけ？",
+    "en_example": "Who's the person related to this ticket?"
+  },
+  {
+    "japanese": "継続する",
+    "furigana": "継続(けいぞく)する",
+    "english": "v. continue",
+    "ja_example": "weekly sync ミーティングは、今後も継続していきましょう。",
+    "furigana_example": "weekly sync ミーティングは、今後(こんご)も継続(けいぞく)していきましょう。",
+    "en_example": "Let's continue the weekly sync meetings as we've been doing."
+  },
+  {
+    "japanese": "測る",
+    "furigana": "測(はか)る",
+    "english": "v. measure",
+    "ja_example": "この目標を達成したかどうかをどうやって測りますか。",
+    "furigana_example": "この目標(もくひょう)を達成(たっせい)したかどうかをどうやって測(はか)りますか。",
+    "en_example": "How do you measure if you've achieved your goal or not?"
+  },
+  {
+    "japanese": "検索する",
+    "furigana": "検索(けんさく)する",
+    "english": "v. search",
+    "ja_example": "この画面は検索しにくいですね。",
+    "furigana_example": "この画面(がめん)は検索(けんさく)しにくいですね。",
+    "en_example": "This screen layout makes it difficult to use the search function."
+  },
+  {
+    "japanese": "時期",
+    "furigana": "時期(じき)",
+    "english": "n. period, season",
+    "ja_example": "リリースの時期は、調整中です。",
+    "furigana_example": "リリースの時期(じき)は、調整中(ちょうせいちゅう)です。",
+    "en_example": "The release period is being adjusted."
+  },
+  {
+    "japanese": "未確定",
+    "furigana": "未確定(みかくてい)",
+    "english": "n. / na-adj. undecided",
+    "ja_example": "スケジュールは未確定です。",
+    "furigana_example": "スケジュールは未確定(みかくてい)です。",
+    "en_example": "The schedule hasn't been decided yet."
+  },
+  {
+    "japanese": "不足",
+    "furigana": "不足(ふそく)\n※コミュニーケーション不足(ぶそく)",
+    "english": "n. shortage, lack of",
+    "ja_example": "チーム内のコミュニケーション不足が、問題になっています。",
+    "furigana_example": "チーム内(ない)のコミュニケーション不足(ぶそく)が、問題(もんだい)になっています。",
+    "en_example": "The lack of communication among team members is becoming a problem."
+  },
+  {
+    "japanese": "余裕",
+    "furigana": "余裕(よゆう)",
+    "english": "n. time / money / space (to spare), have room in someone's mind",
+    "ja_example": "今月は、リリースが多くて、みんな余裕があんまりない。",
+    "furigana_example": "今月(こんげつ)は、リリースが多(おお)くて、みんな余裕(よゆう)があんまりない。",
+    "en_example": "We don't have time to spare since we have a lot of releases this month."
+  },
+  {
+    "japanese": "正常",
+    "furigana": "正常(せいじょう)",
+    "english": "n. / na-adj.  normally, normal",
+    "ja_example": "システムが正常に動いてないので、今日中に鈴木さんが確認する予定になっています。",
+    "furigana_example": "システムが正常(せいじょう)に動(うご)いてないので、今日中(きょうじゅう)に鈴木(すずき)さんが確認(かくにん)する予定(よてい)になっています。",
+    "en_example": "Since the system isn't working normally, Suzuki-san is going to check on it today."
+  },
+  {
+    "japanese": "最優先",
+    "furigana": "最優先(さいゆうせん)",
+    "english": "n. top priority",
+    "ja_example": "これはリリースが来週なので、最優先で進めたほうがいいと思います。",
+    "furigana_example": "これはリリースが来週(らいしゅう)なので、最優先(さいゆうせん)で進(すす)めたほうがいいと思います。",
+    "en_example": "I think it's better to make this the top priority because the release is next week."
+  },
+  {
+    "japanese": "直接",
+    "furigana": "直接(ちょくせつ)",
+    "english": "adv. directly",
+    "ja_example": "困ったことがあったら、直接マネージャーに相談してください。",
+    "furigana_example": "困(こま)ったことがあったら、直接(ちょくせつ)マネージャーに相談(そうだん)してください。",
+    "en_example": "Please talk to your manager directly if you have any problems."
+  },
+  {
+    "japanese": "途中",
+    "furigana": "途中(とちゅう)",
+    "english": "n. in the middle of, halfway",
+    "ja_example": "今、このチケットをやってる途中ですか。",
+    "furigana_example": "今(いま)、このチケットをやってる途中(とちゅう)ですか。",
+    "en_example": "Are you in the middle of working on this ticket?"
+  },
+  {
+    "japanese": "処理",
+    "furigana": "処理(しょり)",
+    "english": "n. process",
+    "ja_example": "返金処理は、昨日、完了しました。",
+    "furigana_example": "返金(へんきん)処理(しょり)は、昨日(きのう)、完了(かんりょう)しました。",
+    "en_example": "I completed the refund process yesterday."
+  },
+  {
+    "japanese": "集中する",
+    "furigana": "集中(しゅうちゅう)する",
+    "english": "v. 1. concentrate (focus on)\n    2. concentrated",
+    "ja_example": "サイトへのアクセスは、どの時間帯が一番集中しますか。",
+    "furigana_example": "サイトへのアクセスは、どの時間帯(じかんたい)が一番(いちばん)集中(しゅうちゅう)しますか。",
+    "en_example": "What time is access to the site most concentrated?"
+  },
+  {
+    "japanese": "遅延する",
+    "furigana": "遅延(ちえん)する",
+    "english": "v. delay",
+    "ja_example": "昨日の夜、システムに遅延が発生しました。",
+    "furigana_example": "昨日(きのう)の夜(よる)、システムに遅延(ちえん)が発生(はっせい)しました。",
+    "en_example": "A system delay happened last night."
+  },
+  {
+    "japanese": "作業をする",
+    "furigana": "作業(さぎょう)をする",
+    "english": "v. work",
+    "ja_example": "明日、バージョンアップする作業をします。",
+    "furigana_example": "明日(あした)、バージョンアップする作業(さぎょう)をします。",
+    "en_example": "I'll work on updating this tomorrow."
+  },
+  {
+    "japanese": "担当する",
+    "furigana": "担当(たんとう)する",
+    "english": "v.  be responsible for, be in charge of",
+    "ja_example": "この業務は、どこのチームが担当してるか知ってる？",
+    "furigana_example": "この業務(ぎょうむ)は、どこのチームが担当(たんとう)してるか知(し)ってる？",
+    "en_example": "Do you know which team is responsible for this work?"
+  },
+  {
+    "japanese": "追加する",
+    "furigana": "追加(ついか)する",
+    "english": "v. add",
+    "ja_example": "話したいトピックがある人は、議事録に追加しておいてくださいね。",
+    "furigana_example": "話(はな)したいトピックがある人(ひと)は、議事録(ぎじろく)に追加(ついか)しておいてくださいね。",
+    "en_example": "Please add the topics you want to talk about to the notes."
+  },
+  {
+    "japanese": "提案する",
+    "furigana": "提案(ていあん)する",
+    "english": "v. propose, suggest",
+    "ja_example": "何か提案がある人は、明日までに私にDMしてください。",
+    "furigana_example": "何(なに)か提案(ていあん)がある人は、明日(あした)までに私(わたし)にDMしてください。",
+    "en_example": "If you want to suggest anything, please DM me by tomorrow."
+  },
+  {
+    "japanese": "導入する",
+    "furigana": "導入(どうにゅう)する",
+    "english": "v. implement",
+    "ja_example": "新しいサービスを導入する時期はまだ決まってません。",
+    "furigana_example": "新(あたら)しいサービスを導入(どうにゅう)する時期(じき)はまだ決(き)まってません。",
+    "en_example": "The timing of implementing the new service hasn't been decided yet."
+  },
+  {
+    "japanese": "落ちる",
+    "furigana": "落(お)ちる",
+    "english": "v. drop, go down",
+    "ja_example": "夜中にアクセスが集中して、サービスが一時的に落ちました。",
+    "furigana_example": "夜中(よなか)にアクセスが集中(しゅうちゅう)して、サービスが一時的(いちじてき)に落(お)ちました。",
+    "en_example": "The service went down temporarily late last night because of a spike in access."
+  },
+  {
+    "japanese": "移動する",
+    "furigana": "移動(いどう)する",
+    "english": "v. move, shift",
+    "ja_example": "今Q対応しないチケットは、次のSprintに移動しておきます。",
+    "furigana_example": "今Q(こんきゅう)対応(たいおう)しないチケットは、次(つぎ)のSprintに移動(いどう)しておきます。",
+    "en_example": "Tickets that we won't deal with this Q will be moved to the next sprint."
+  },
+  {
+    "japanese": "被る",
+    "furigana": "被(かぶ)る",
+    "english": "v. have a schedule conflict  (*casual)",
+    "ja_example": "すみません、他のミーティングと被ってるので、明日のスタンドアップミーティングに参加できません。",
+    "furigana_example": "すみません、他(ほか)のミーティングと被(かぶ)ってるので、明日のスタンドアップミーティングに参加(さんか)できません。",
+    "en_example": "Sorry, I can't join tomorrow's stand up because of a schedule conflict."
+  },
+  {
+    "japanese": "ミーティングを抜ける",
+    "furigana": "ミーティングを抜(ぬ)ける",
+    "english": "v. leave the meeting",
+    "ja_example": "【状況：ミーティングに出席中】\n すみません、次のミーティングがあるので、先に抜けますね。",
+    "furigana_example": "【状況(じょうきょう)：ミーティングに出席中(しゅっせきちゅう)】\n すみません、次のミーティングがあるので、先(さき)に抜(ぬ)けますね。",
+    "en_example": "[Situation: In a meeting]\nSorry, I need to leave now because I have another meeting."
+  },
+  {
+    "japanese": "けっこう",
+    "furigana": "けっこう",
+    "english": "adv. quite",
+    "ja_example": "来月はけっこう忙しくなると思うので、みなさん、今のうちにゆっくり休んでくださいね。",
+    "furigana_example": "来月(らいげつ)はけっこう忙(いそが)しくなると思うので、みなさん、今のうちにゆっくり休(やす)んでくださいね。",
+    "en_example": "Please take it easy now since we're going to be quite busy next month."
+  },
+  {
+    "japanese": "ギリギリ",
+    "furigana": "ギリギリ",
+    "english": "adv. at the last moment, barely",
+    "ja_example": "このチケットは、ギリギリになりそうですが、締切までに終わると思います。",
+    "furigana_example": "このチケットは、ギリギリになりそうですが、締切(しめきり)までに終(お)わると思います。",
+    "en_example": "It'll be really tight, but I think I'll just barely get the ticket done by the deadline."
+  },
+  {
+    "japanese": "基本的に",
+    "furigana": "基本的(きほんてき)に",
+    "english": "adv.  basically",
+    "ja_example": "基本的に、来Qのみなさんのアサインは、今Qと変更ありません。",
+    "furigana_example": "基本的(きほんてき)に、来Q(らいきゅう)のみなさんのアサインは、今Q(こんきゅう)と変更(へんこう)ありません。",
+    "en_example": "Basically, everyone's assignments won't change much from this Q to next Q."
+  },
+  {
+    "japanese": "ちなみに",
+    "furigana": "ちなみに",
+    "english": "adv. also, in addition",
+    "ja_example": "ちなみに、いつぐらいまでにリリースの時期が決まるか、わかりますか。",
+    "furigana_example": "ちなみに、いつぐらいまでにリリースの時期(じき)が決(き)まるか、わかりますか。",
+    "en_example": "Also, do you know when the release period will be decided? Approximately?"
+  },
+  {
+    "japanese": "視点",
+    "furigana": "視点(してん)",
+    "english": "n. point of view",
+    "ja_example": "お客様視点で考えてみて。",
+    "furigana_example": "お客様(きゃくさま)視点(してん)で考(かんが)えてみて。",
+    "en_example": "Think about it from the customer's point of view."
+  },
+  {
+    "japanese": "雑談",
+    "furigana": "雑談(ざつだん)",
+    "english": "n. small talk, chat",
+    "ja_example": "まだ10分ぐらいあるので、ちょっと雑談でもしましょうか。",
+    "furigana_example": "まだ10分ぐらいあるので、ちょっと雑談(ざつだん)でもしましょうか。",
+    "en_example": "We still have about 10 minutes left, shall we just chat?"
+  },
+  {
+    "japanese": "段階",
+    "furigana": "段階(だんかい)",
+    "english": "n. phase",
+    "ja_example": "今は、テストの準備をしている段階です。",
+    "furigana_example": "今は、テストの準備(じゅんび)をしている段階(だんかい)です。",
+    "en_example": "I'm in the preparation phase of the test now."
+  },
+  {
+    "japanese": "既存",
+    "furigana": "既存(きぞん, きそん)",
+    "english": "n. existing",
+    "ja_example": "既存のソースを見て、考えてみます。",
+    "furigana_example": "既存(きぞん)のソースを見(み)て、考(かんが)えてみます。",
+    "en_example": "I'll check the existing sources and then think about it."
+  },
+  {
+    "japanese": "事例",
+    "furigana": "事例(じれい)",
+    "english": "n. case",
+    "ja_example": "先週、それに似た事例がありました。",
+    "furigana_example": "先週(せんしゅう)、それに似(に)た事例(じれい)がありました。",
+    "en_example": "There was a similar case last week."
+  },
+  {
+    "japanese": "品質",
+    "furigana": "品質(ひんしつ)",
+    "english": "n. quality",
+    "ja_example": "リリースを早めると、QAの品質を保つのは難しくなると思います。",
+    "furigana_example": "リリースを早(はや)めると、QAの品質(ひんしつ)を保(たも)つのは難(むずか)しくなると思います。",
+    "en_example": "I think it'll be difficult to maintain the QA quality if we move the release date up."
+  },
+  {
+    "japanese": "処理",
+    "furigana": "処理(しょり)",
+    "english": "n.  processing",
+    "ja_example": "返金処理は、いつ完了しそうですか。",
+    "furigana_example": "返金(へんきん)処理(しょり)は、いつ完了(かんりょう)しそうですか。",
+    "en_example": "When do you think we'll finish processing the refund?"
+  },
+  {
+    "japanese": "障害",
+    "furigana": "障害(しょうがい)",
+    "english": "n. fault, system error",
+    "ja_example": "最近、障害が多く発生している。",
+    "furigana_example": "最近(さいきん)、障害(しょうがい)が多(おお)く発生(はっせい)している。",
+    "en_example": "A lot of system errors have been happening these days."
+  },
+  {
+    "japanese": "クリティカル",
+    "furigana": "クリティカル",
+    "english": "n-adj. critical, specially important",
+    "ja_example": "今のところ、クリティカルな障害は起きてません。",
+    "furigana_example": "今のところ、クリティカルな障害(しょうがい)は起(お)きてません。",
+    "en_example": "There are no critical failures yet."
+  },
+  {
+    "japanese": "挙動",
+    "furigana": "挙動(きょどう)",
+    "english": "n. (system) behavior, acting",
+    "ja_example": "ちょっと待って、Chromeの挙動がおかしい。",
+    "furigana_example": "ちょっと待って、Chromeの挙動(きょどう)がおかしい。",
+    "en_example": "Hold on, Chrome is acting weird."
+  },
+  {
+    "japanese": "やつ",
+    "furigana": "やつ",
+    "english": "n. thing ※casual",
+    "ja_example": "来週QAする予定のやつ、ある？",
+    "furigana_example": "来週(らいしゅう)QAする予定(よてい)のやつ、ある？",
+    "en_example": "Is there something you plan to do QA for next week?"
+  },
+  {
+    "japanese": "作成する",
+    "furigana": "作成(さくせい)する",
+    "english": "v. make (document or plan)",
+    "ja_example": "リリースまでのスケジュールを作成したので、まだ見てない人は、今日中に確認してください",
+    "furigana_example": "リリースまでのスケジュールを作成(さくせい)したので、まだ見てない人は、今日中(きょうじゅう)に確認(かくにん)してください",
+    "en_example": "I've made a schedule for the next release, so please check it by the end of today if you haven't."
+  },
+  {
+    "japanese": "設計する",
+    "furigana": "設計(せっけい)する",
+    "english": "v.  plan, design, layout",
+    "ja_example": "ABテストを設計するときの注意点については、ここを読んどいてください。",
+    "furigana_example": "ABテストを設計(せっけい)するときの注意点(ちゅういてん)については、ここを読(よ)んどいてください。",
+    "en_example": "Please check here for the important points about planning AB tests."
+  },
+  {
+    "japanese": "展開する",
+    "furigana": "展開(てんかい)する",
+    "english": "v. expand, be open to",
+    "ja_example": "この資料は、全メンバーに展開されています",
+    "furigana_example": "この資料(しりょう)は、全(ぜん)メンバーに展開(てんかい)されています",
+    "en_example": "This document is now open to everyone."
+  },
+  {
+    "japanese": "(内容を)詰める",
+    "furigana": "内容(ないよう)を詰(つ)める",
+    "english": "v. decide details",
+    "ja_example": "この件、もう少し詰めた方がいいですね。",
+    "furigana_example": "この件(けん)、もう少(すこ)し詰(つ)めた方(ほう)がいいですね。",
+    "en_example": "We should think about this more in order to decide the details."
+  },
+  {
+    "japanese": "任せる",
+    "furigana": "任(まか)せる",
+    "english": "v. delegate, leave something with someone",
+    "ja_example": "このプロジェクトは、佐藤さんに任せました",
+    "furigana_example": "このプロジェクトは、佐藤(さとう)さんに任(まか)せました",
+    "en_example": "I've delegated this project to Sato-san."
+  },
+  {
+    "japanese": "見積もる",
+    "furigana": "見積(みつ)もる",
+    "english": "v. estimate",
+    "ja_example": "見積もると、だいたいトータルで2ヶ月かかります。",
+    "furigana_example": "見積(みつ)もると、だいたいトータルで2ヶ月(かげつ)かかります。",
+    "en_example": "I estimate it will take about 2 months in total"
+  },
+  {
+    "japanese": "紐づく",
+    "furigana": "紐(ひも)づく",
+    "english": "v. link",
+    "ja_example": "この情報は、お客様IDに紐づいています",
+    "furigana_example": "この情報(じょうほう)は、お客様(きゃくさま)IDに紐(ひも)づいています",
+    "en_example": "This information is linked to customer ID."
+  },
+  {
+    "japanese": "感じ",
+    "furigana": "感(かん)じ",
+    "english": "n. like [something]",
+    "ja_example": "こんな感じです。",
+    "furigana_example": "こんな感(かん)じです。",
+    "en_example": "It's like this."
+  },
+  {
+    "japanese": "以外",
+    "furigana": "以外(いがい)",
+    "english": "n. besides, except",
+    "ja_example": "ここに書いてあるトピック以外に何か話したいことありますか。",
+    "furigana_example": "ここに書いてあるトピック以外(いがい)に何(なに)か話(はな)したいことありますか。",
+    "en_example": "Is there anything else you want to talk about besides the topics written here?"
+  },
+  {
+    "japanese": "同時に",
+    "furigana": "同時(どうじ)に",
+    "english": "adv. at the same time, simultaneously",
+    "ja_example": "同時に担当できるプロジェクトの数には限界があります",
+    "furigana_example": "同時(どうじ)に担当(たんとう)できるプロジェクトの数(かず)には限界(げんかい)があります",
+    "en_example": "There's a limit to the number of projects we can handle at the same time."
+  },
+  {
+    "japanese": "結局",
+    "furigana": "結局(けっきょく)",
+    "english": "adv. after all, in the end",
+    "ja_example": "これを解決しておかないと、結局、リリース直前に問題が出てくる。",
+    "furigana_example": "これを解決(かいけつ)しておかないと、結局(けっきょく)、リリース直前(ちょくぜん)に問題(もんだい)が出(で)てくる。",
+    "en_example": "If we don't solve this problem, in the end it'll happen just before the release."
+  },
+  {
+    "japanese": "ほぼ",
+    "furigana": "ほぼ",
+    "english": "adv. mostly",
+    "ja_example": "このチケットはほぼ終わりました",
+    "furigana_example": "このチケットはほぼ終(お)わりました",
+    "en_example": "I've mostly finished this ticket."
+  },
+  {
+    "japanese": "そもそも",
+    "furigana": "そもそも",
+    "english": "adv. in the first place",
+    "ja_example": "そもそも、このミーティングの目的はなんでしたっけ？",
+    "furigana_example": "そもそも、このミーティングの目的(もくてき)はなんでしたっけ？",
+    "en_example": "What was the point of this meeting in the first place?"
+  },
+  {
+    "japanese": "どんどん",
+    "furigana": "どんどん",
+    "english": "adv. one after the other (usually quickly)",
+    "ja_example": "どんどん意見を言ってくださいね",
+    "furigana_example": "どんどん意見(いけん)を言ってくださいね",
+    "en_example": "Let's all share our opinions one after the other."
+  },
+  {
+    "japanese": "〜側",
+    "furigana": "〜側(がわ)",
+    "english": "n. side",
+    "ja_example": "これはQA側で対応します",
+    "furigana_example": "これはQA側(がわ)で対応(たいおう)します",
+    "en_example": "OK, the QA side will deal with this."
+  }
+]
